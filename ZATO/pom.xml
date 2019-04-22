@@ -38,14 +38,14 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-<<<<<<< HEAD
+
 		
-=======
+
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
 		</dependency>
->>>>>>> 63eff75aad0a15576df095cd6c18f15fe72d2d59
+
 	</dependencies>
 
 	<build>
